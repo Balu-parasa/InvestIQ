@@ -74,20 +74,6 @@ Compare two companies side-by-side including:
 
 ---
 
-## 📈 Live Market Data
-
-Real-time data includes:
-
-- Market Capitalization
-- Revenue
-- Net Income
-- Revenue Growth
-- P/E Ratio
-- Employee Count
-- Industry
-- CEO
-- Headquarters
-- Website
 
 ---
 
