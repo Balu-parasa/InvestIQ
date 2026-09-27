@@ -28,7 +28,23 @@ export default function ComparisonSummary({ comparison, company1, company2 }) {
       <div className="flex flex-col lg:flex-row items-stretch justify-between gap-10 relative">
         
         {/* Left Column: Winner Callout */}
-       
+        <div className="flex flex-col justify-center gap-5 text-center lg:text-left lg:w-1/3 shrink-0">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#FCFAF7] border border-border-base text-[10px] text-text-secondary font-bold uppercase tracking-wider self-center lg:self-start shadow-sm">
+            <BrainCircuit className="w-3.5 h-3.5 text-[#1E1C1A]" />
+            AI Investment Verdict
+          </div>
+
+          <div className="space-y-2">
+            <h3 className="text-[10px] font-bold text-text-secondary uppercase tracking-widest">
+              Investment Winner
+            </h3>
+            <div className="flex items-center justify-center lg:justify-start gap-2.5 pt-1.5">
+              <Trophy className="w-5 h-5 text-[#4A6D55] shrink-0" />
+              <span className="bg-[#1E1C1A] text-white text-xs px-3.5 py-1.5 rounded-lg font-bold uppercase tracking-wider shadow-sm">
+                {winner}
+              </span>
+            </div>
+          </div>
 
           {/* Scores bar visual */}
           <div className="space-y-4 pt-4 border-t border-border-base">
