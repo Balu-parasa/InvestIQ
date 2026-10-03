@@ -16,13 +16,7 @@ Built using **React**, **Node.js**, **Express**, **LangChain**, **Google Gemini/
 
 ---
 
-# 📖 Overview
 
-InvestIQ is an AI-powered investment research dashboard that helps users analyze and compare publicly listed companies using real-time financial information.
-
-The application combines live financial data, recent news, and Large Language Models (LLMs) to generate investment insights including SWOT analysis, financial health assessment, recommendations, and side-by-side company comparisons.
-
-Unlike traditional dashboards that only display financial metrics, InvestIQ explains **why** a company may be a good or poor investment using AI-generated reasoning.
 
 ---
 
