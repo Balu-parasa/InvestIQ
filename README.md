@@ -205,6 +205,49 @@ NEWS_API_KEY=your_api_key
 PORT=5000
 ```
 
+# 🌐 API Endpoints
+
+## Analyze Company
+
+```
+POST /api/analyze
+```
+
+Example
+
+```json
+{
+  "company": "Apple"
+}
+```
+
+---
+
+## Compare Companies
+
+```
+POST /api/compare
+```
+
+Example
+
+```json
+{
+  "company1": "Apple",
+  "company2": "Microsoft"
+}
+```
+
+---
+
+## Health Check
+
+```
+GET /health
+```
+
+---
+
 ---
 
 # 🧠 System Workflow
