@@ -358,22 +358,5 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 👨‍💻 Author
-
-**Balu Parasa**
-
-B.Tech CSE
-
-Lovely Professional University
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-# 📄 License
 
 This project is developed for educational purposes.
