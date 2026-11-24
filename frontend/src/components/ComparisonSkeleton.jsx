@@ -94,15 +94,7 @@ export default function ComparisonSkeleton() {
 
       {/* Verdict Summary Card Skeleton */}
       <div className="dashboard-card p-6 md:p-8">
-        <div className="flex flex-col lg:flex-row gap-8">
-          <div className="space-y-4 lg:w-1/3">
-            <div className="h-5 w-1/2 skeleton-shimmer rounded" />
-            <div className="h-8 w-2/3 skeleton-shimmer rounded" />
-            <div className="space-y-3 pt-3 border-t border-border-base">
-              <div className="h-3 w-1/3 skeleton-shimmer rounded" />
-              <div className="space-y-2">
-                <div className="h-6 w-full skeleton-shimmer rounded" />
-                <div className="h-6 w-full skeleton-shimmer rounded" />
+       
               </div>
             </div>
           </div>
